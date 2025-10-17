@@ -1,0 +1,11 @@
+date,userid,startdate,plan,Status,DayOfWeek,Weekend,DaysSinceStart,AI_AutoComplete_Success,AI_Chat_Success,AI_Agent_Success,AI_AutoComplete_Error,AI_Chat_Error,AI_Agent_Error
+3/3/2025,11693532,3/3/2025,Free,Active,Monday,FALSE,0,30,4,1,0,0,0
+4/3/2025,11693532,3/3/2025,Free,Active,Thursday,FALSE,31,46,5,1,9,0,0
+4/4/2025,11693532,3/3/2025,Free,Active,Friday,FALSE,32,25,9,1,0,0,0
+4/5/2025,11693532,3/3/2025,Paid,Active,Saturday,TRUE,33,48,41,2,0,0,0
+4/6/2025,11693532,3/3/2025,Paid,Active,Sunday,TRUE,34,24,41,3,0,0,0
+4/7/2025,11693532,3/3/2025,Paid,Active,Monday,FALSE,35,68,9,1,0,0,0
+4/10/2025,11693532,3/3/2025,Paid,Cancelled,Thursday,FALSE,38,10,5,2,0,0,5
+3/7/2025,69468410,3/7/2025,Paid,Active,Friday,FALSE,0,130,39,15,0,0,0
+3/10/2025,69468410,3/7/2025,Paid,Active,Monday,FALSE,3,180,12,11,0,2,0
+3/11/2025,69468410,3/7/2025,Paid,Active,Tuesday,FALSE,4,87,24,11,0,0,0
